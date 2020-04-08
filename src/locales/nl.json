@@ -1,0 +1,21 @@
+{
+    "author":       "Marc Kerkhofs",
+    "author_url":   "https://github.com/Nephilim72",
+
+    "strings": {
+        "buttonAll":        "Allemaal",
+        "buttonNone":       "Geen",
+        "disabled":         "Dit veld is uitgeschakeld",
+        "empty":            "Geen opties beschikbaar",
+        "emptySearch":      "Geen opties gevonden",
+        "multiple":         "Kies één of meer opties...",
+        "multipleCount":    [
+            "var num = args['[1]'];",
+            "return 'Kies tot [1] ' + (num === 1? 'optie': 'opties') + '...';"
+        ],
+        "multipleLimit":    "Er kunnen geen verdere opties geselecteerd worden",
+        "search":           "Zoeken...",
+        "single":           "Kies een optie ..."
+    },
+    "source":       "<internal>"
+}
